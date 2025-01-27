@@ -4,7 +4,8 @@ Graphic Designer & Developer
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [ratthawit01zx@gmail.com](mailto:ratthawit01zx@gmail.com)
-* 🧠  I'm learning Java, HTML, CSS, JS, Lua, Python and Database thingy
+* 🧠  Currently I'm learning Java, HTML, CSS, JS, Lua, Python and Database thingy
+* 💓  
 
 ### Skills
 
