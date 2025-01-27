@@ -1,7 +1,6 @@
 Hi 👋 My name is Ratthawit (Reginlief)
 ======================================
 
-Graphic Designer & Developer
 ----------------------------
 
 Graphic Designer & Developer
