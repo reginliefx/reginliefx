@@ -2,9 +2,9 @@ Hi 👋 My name is Ratthawit (Reginlief)
 ======================================
 Graphic Designer & Developer
 
-* 🌍  I'm based in Bangkok, Thailand
+* 🌍  I'm in Bangkok, Thailand
 * ✉️  You can contact me at [ratthawit01zx@gmail.com](mailto:ratthawit01zx@gmail.com)
-* 🧠  Currently I'm learning Java, HTML, CSS, JS, Lua, Python and Database thingy
+* 🧠  Currently I'm learning Java, HTML, CSS, JS, Lua, Python and all the DB
 * 💓  
 
 ### Skills
