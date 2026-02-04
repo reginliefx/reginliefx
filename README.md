@@ -1,8 +1,8 @@
-Hi 👋 My name is Ratthawit (Reginlief)
+Hi!👋 
 ======================================
 Graphic Designer & Developer
 
-* 🌍  I'm in Bangkok, Thailand
+* 🌍  My name is Ratthawit Saenghiranpongkorn. UTCC CS-67. I'm in Bangkok, Thailand
 * ✉️  You can contact me at [ratthawit01zx@gmail.com](mailto:ratthawit01zx@gmail.com)
 * 🧠  Currently I'm learning Java, HTML, CSS, JS, Lua, Python and all the DB
 
